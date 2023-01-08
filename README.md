@@ -8,7 +8,7 @@ sequence when the user presses "Solve".
 
 ### App Demo
 
-<img src="demo.gif" width=800><br>
+<img src="assets/demo.gif" width=800><br>
 
 ### Features
 
